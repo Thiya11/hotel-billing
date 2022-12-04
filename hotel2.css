@@ -1,0 +1,24 @@
+p {
+    position: relative;
+    text-align: left;
+
+}
+.check  {
+    position: absolute;
+    left: 150px;
+}
+.quant {
+    position: absolute;
+    left: 250px;
+}
+#addBtn
+{
+    position: relative;
+    left: 300px;
+    width: 100px;
+    height: 40px;
+    color: white;
+    background: green;
+    border: 2px solid white;
+    border-radius: 20px;
+}
